@@ -1,0 +1,13 @@
+# Python cache / bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment (reinstall with: pip install pygame)
+.venv/
+
+# Editor/IDE settings
+.idea/
+.vscode/
+
+# OS files
+.DS_Store

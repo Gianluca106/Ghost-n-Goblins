@@ -1,0 +1,18 @@
+# GUI Configuration File
+# Format: KEY: VALUE
+
+# --- FONT SETTINGS ---
+FONT_W: 8
+FONT_H: 8
+FONT_SPACING: 1
+
+# --- CHARACTER SETS ---
+# Definisce quali lettere sono presenti nello spritesheet e in che ordine
+CHAR_SET_1: 0123456789
+CHAR_SET_2: ABCDEFGHIJKLMNO
+CHAR_SET_3: PQRSTUVWXYZ
+
+# --- GUI SPRITES (Coordinates) ---
+# Format: x, y, w, h
+HEART_FULL: 558, 783, 8, 8
+GATE: 3, 138, 47, 62
